@@ -10,7 +10,7 @@
 
 
 - 📚 I’m currently learning React.js, Clean Code practices, DevOps and SRE
-- 💬 Ask me about: tech, games, movies and series 
+- 💬 Ask me about: tech, games, series, movies and books 
 - 🚀 Technologies: React.js, React-Native, Node.js, Java
 
 ### Find me elsewhere 🌎
