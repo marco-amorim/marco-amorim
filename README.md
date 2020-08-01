@@ -9,7 +9,7 @@
 ### What I'm working on 👨‍💻
 
 
-- 📚 I’m currently learning React.js, Clean Code practices, DevOps and SRE
+- 📚 I’m currently learning React.js, Node.js, Clean Code practices, DevOps and SRE
 - 💬 Ask me about: tech, games, animes, series and books
 - 🚀 Technologies: React.js, React-Native, Node.js, Java
 
