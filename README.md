@@ -9,7 +9,7 @@
 ### What I'm working on 👨‍💻
 
 
-- 📚 I’m currently learning React.js, Node.js, Clean Code practices, DevOps and SRE
+- 📚 I’m currently creating an application for Web and Mobile on the Next Level Week #02 challenge at [@Rocketseat](https://rocketseat.com.br/)
 - 💬 Ask me about: tech, games, animes, series and books
 - 🚀 Technologies: React.js, React-Native, Node.js, Java
 
