@@ -4,7 +4,7 @@
 💻 Full Stack Developer at [@Unimed](https://www.linkedin.com/company/unimeddobrasil/) <br>
 🎓 Graduating in Information Systems at [@Unisul](http://www.unisul.br/), currently on the 7th semester. <br>
 🇧🇷 Living in Florianópolis, Brazil <br>
-🇱🇺 Luxembourg Citizen with plans to move out of the country <br>
+🇱🇺 Luxembourg citizen with plans to move out of the country <br>
 
 ### What I'm working on 👨‍💻
 
