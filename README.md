@@ -9,9 +9,9 @@
 ### What I'm working on 👨‍💻
 
 
-- 📚 I’m currently creating an application for Web and Mobile on the Next Level Week #02 challenge at [@Rocketseat](https://rocketseat.com.br/)
-- 💬 Ask me about: tech, games, animes, series and books
-- 🚀 Technologies: React.js, React-Native, Node.js, Java
+- 🚀 Creating Proffy, a learning platform for students and teachers on the Next Level Week #02 challenge at [@Rocketseat](https://rocketseat.com.br/)
+- 💼 Creating cool and responsive websites at [@Unimed](https://www.linkedin.com/company/unimeddobrasil/)
+- 📚 Reading Clean Code
 
 ### Find me elsewhere 🌎
 
