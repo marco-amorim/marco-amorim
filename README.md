@@ -11,7 +11,7 @@
 
 - 🚀 Studying Modern React with Redux at [@Udemy](https://www.udemy.com/course/react-redux/)
 - 💼 Creating cool and responsive websites at [@Unimed](https://www.linkedin.com/company/unimeddobrasil/)
-- 📚 Reading Clean Code
+- 📚 Reading [Clean Code by Robert C. Martin](https://www.amazon.com.br/gp/product/B001GSTOAM/ref=dbs_a_def_rwt_hsch_vapi_tkin_p1_i0)
 
 ### Find me elsewhere 🌎
 
