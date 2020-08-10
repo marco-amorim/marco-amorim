@@ -9,7 +9,7 @@
 ### What I'm working on 👨‍💻
 
 
-- 🚀 Creating Proffy, a learning platform for students and teachers on the Next Level Week #02 challenge at [@Rocketseat](https://rocketseat.com.br/)
+- 🚀 Studying Modern React with Redux at [@Udemy](https://www.udemy.com/course/react-redux/)
 - 💼 Creating cool and responsive websites at [@Unimed](https://www.linkedin.com/company/unimeddobrasil/)
 - 📚 Reading Clean Code
 
