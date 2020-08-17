@@ -9,7 +9,8 @@
 ### What I'm working on 👨‍💻
 
 
-- 🚀 Working on my personal website for portfolio and networking
+- 🚀 Creating my personal website
+- 📂 Studying the Node.js + React.js + React-Native stack
 - 💼 Creating cool and responsive websites at [@Unimed](https://www.linkedin.com/company/unimeddobrasil/)
 - 📚 Reading [Clean Code](https://www.amazon.com/Clean-Code-Handbook-Software-Craftsmanship-ebook/dp/B001GSTOAM/) by Robert C. Martin
 
