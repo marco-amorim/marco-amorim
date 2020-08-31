@@ -1,7 +1,7 @@
 ### Hey, I'm Marco Amorim! 👋
 
 
-💻 Software Developer at [@Unimed](https://www.linkedin.com/company/unimeddobrasil/) <br>
+💻 Software Engineer at [@Unimed](https://www.linkedin.com/company/unimeddobrasil/) <br>
 🎓 Graduating in Information Systems at [@Unisul](http://www.unisul.br/), currently on the 7th semester <br>
 🇧🇷 Living in Florianópolis, Brazil <br>
 🇱🇺 Luxembourg citizen
