@@ -1,7 +1,7 @@
 ### Hey, I'm Marco Amorim! 👋
 
 
-💻 Software Engineer at [@Unimed](https://www.linkedin.com/company/unimeddobrasil/) <br>
+💻 Software Developer at [@Unimed](https://www.linkedin.com/company/unimeddobrasil/) <br>
 🎓 Graduating in Information Systems at [@Unisul](http://www.unisul.br/), currently on the 7th semester <br>
 🇧🇷 Living in Florianópolis, Brazil <br>
 🇱🇺 Luxembourg citizen
@@ -9,7 +9,7 @@
 ### What I'm working on 🔧
 
 
-- 👨🏻‍💻 Studying the Node.js + React.js + React-Native stack
+- 👨🏻‍💻 Studying the React.js + React-Native + Node.js stack
 - 🔥 Creating cool and responsive websites at [@Unimed](https://www.linkedin.com/company/unimeddobrasil/)
 - 📚 Reading [Clean Code](https://www.amazon.com/Clean-Code-Handbook-Software-Craftsmanship-ebook/dp/B001GSTOAM/) by Robert C. Martin
 
