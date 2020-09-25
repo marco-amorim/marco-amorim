@@ -11,7 +11,6 @@
 
 - 👨🏻‍💻 Studying the React.js + React-Native + Node.js stack
 - 🔥 Creating cool and responsive websites at [@Unimed](https://www.linkedin.com/company/unimeddobrasil/)
-- 📚 Reading [Clean Code](https://www.amazon.com/Clean-Code-Handbook-Software-Craftsmanship-ebook/dp/B001GSTOAM/) by Robert C. Martin
 
 ### Find me elsewhere 🌎
 
