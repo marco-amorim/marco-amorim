@@ -10,7 +10,7 @@
 
 
 - 👨🏻‍💻 Studying the React.js + React-Native + Node.js stack
-- 🔥 Creating cool and responsive websites at [@Unimed](https://www.linkedin.com/company/unimeddobrasil/)
+- 🔥 Creating cool and responsive applications at [@Unimed](https://www.linkedin.com/company/unimeddobrasil/)
 
 ### Find me elsewhere 🌎
 
