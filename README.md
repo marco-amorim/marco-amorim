@@ -9,7 +9,7 @@
 ### What I'm working on 🔧
 
 
-- 👨🏻‍💻 Studying the React.js + React-Native + Node.js stack
+- 👨🏻‍💻 Learning and creating projects with Firebase and Next.js
 - 🔥 Creating cool and responsive applications at [@Unimed](https://www.linkedin.com/company/unimeddobrasil/)
 
 ### Find me elsewhere 🌎
