@@ -6,11 +6,11 @@
 🇧🇷 Living in Florianópolis, Brazil <br>
 🇱🇺 Luxembourg citizen
 
-### What I'm working on 🔧
+### What I'm working on 👨‍💻
 
 
-- 👨🏻‍💻 Learning and creating projects with Firebase and Next.js
-- 🔥 Creating cool and responsive applications at [@Unimed](https://www.linkedin.com/company/unimeddobrasil/)
+- 🌱 Studying: **Next.js**, **Firebase**, **GraphQL**
+- 💡 Active side project: [Twitok](https://github.com/marco-amorim/twitok)
 
 ### Find me elsewhere 🌎
 
