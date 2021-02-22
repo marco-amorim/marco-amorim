@@ -9,7 +9,7 @@
 ### What I'm working on 👨‍💻
 
 
-- 🌱 Studying: **Next.js**, **Firebase**, **GraphQL**
+- 🌱 Studying: **Node.js**, **MongoDB**, **GraphQL**
 - 💡 Active side project: [Twitok](https://github.com/marco-amorim/twitok)
 
 ### Find me elsewhere 🌎
