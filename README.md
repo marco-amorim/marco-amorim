@@ -9,7 +9,7 @@
 ### What I'm working on 👨‍💻
 
 
-- 🌱 Studying: **Node.js**, **MongoDB**, **GraphQL**
+- 🌱 Studying: **Java**, **Kubernetes**, **GraphQL**
 - 💡 Active side project: [Twitok](https://github.com/marco-amorim/twitok)
 
 ### Find me elsewhere 🌎
