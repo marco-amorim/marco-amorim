@@ -10,7 +10,6 @@
 
 
 - 🌱 Studying: **Java**, **Kubernetes**, **GraphQL**
-- 💡 Active side project: [Twitok](https://github.com/marco-amorim/twitok)
 
 ### Find me elsewhere 🌎
 
