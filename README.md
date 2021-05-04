@@ -9,7 +9,7 @@
 ### What I'm working on 👨‍💻
 
 
-- 🌱 Studying: **Java**, **Kubernetes**, **GraphQL**
+- 🌱 Studying: **Docker**, **Kubernetes**, **GraphQL**
 
 ### Find me elsewhere 🌎
 
