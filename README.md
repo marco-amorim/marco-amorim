@@ -9,7 +9,8 @@
 ### What I'm working on 👨‍💻
 
 
-- 🌱 Studying: **Docker**, **Kubernetes**, **GraphQL**
+- 🌱 Studying **Docker**, **Kubernetes**, **GraphQL**
+- 📝 Bachelor thesis about **Micro Frontends**
 
 ### Find me elsewhere 🌎
 
