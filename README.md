@@ -2,7 +2,7 @@
 
 
 💻 Full Stack Developer at [@Softplan](https://www.linkedin.com/company/softplan/) <br>
-🎓 Graduating in Information Systems at [@Unisul](http://www.unisul.br/), currently in the 8th semester <br>
+🎓 Undergraduate student in Information Systems at [@Unisul](http://www.unisul.br/), currently in the 8th semester <br>
 🇧🇷 Living in Florianópolis, Brazil <br>
 🇱🇺 Luxembourgish citizen
 
