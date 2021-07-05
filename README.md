@@ -1,7 +1,7 @@
 ### Hey, I'm Marco Amorim! 👋
 
 
-💻 Full Stack Developer at [@Softplan](https://www.linkedin.com/company/softplan/) <br>
+💻 Software Engineer at [@ArcTouch](https://www.linkedin.com/company/arctouch/) <br>
 🎓 Undergraduate in Information Systems at [@Unisul](http://www.unisul.br/), currently in the 9th semester <br>
 🇧🇷 Living in Florianópolis, Brazil <br>
 🇱🇺 Luxembourgish citizen
