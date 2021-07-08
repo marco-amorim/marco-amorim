@@ -1,4 +1,4 @@
-### Hey, I'm Marco Amorim! 👋
+### Hey, I'm Marco! 👋
 
 
 💻 Software Engineer at [@ArcTouch](https://www.linkedin.com/company/arctouch/) <br>
